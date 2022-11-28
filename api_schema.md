@@ -78,8 +78,11 @@
 ### Response
 ```
 {
+    lot: "A1",
+    floor: 1,
     enterDate: 1669676122,
     exitDate: 1669676706,
+    licensePlate: "34AB123"
     fee: 60,
 }
 ```
